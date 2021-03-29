@@ -208,7 +208,7 @@ pyepsg==0.3.2
 pyexif==0.2.1
 pyflakes==1.5.0
 pygame==1.9.3
-Pygments==2.2.0
+Pygments==2.7.4
 PyInstaller==3.3
 pylint==1.7.2
 pymongo==3.4.0
